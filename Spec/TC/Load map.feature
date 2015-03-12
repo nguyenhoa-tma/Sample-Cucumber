@@ -1,0 +1,1 @@
+Feature: Test load map
