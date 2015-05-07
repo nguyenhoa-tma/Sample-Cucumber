@@ -14,6 +14,7 @@ Scenario: Verify saveActiveVesselGeofences API should insert geofences when it d
     "vesselId": "vesselId",
     "enterTime": "enterTime"
 }
+aaaa
  """
  And the user sends the request
  Then the API should return correct json as:
